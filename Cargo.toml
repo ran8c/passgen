@@ -2,5 +2,12 @@
 name = "passgen"
 version = "0.1.0"
 edition = "2021"
+authors = ["ran8c <ran8c at icloud dot com>"]
+description = "A CLI password generator"
+repository = "https://github.com/ran8c/passgen"
+license = "BSD-3-Clause"
+keywords = ["password"]
+categories = ["command-line-utilities"]
+publish = false
 
 [dependencies]
