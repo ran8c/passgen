@@ -11,3 +11,4 @@ categories = ["command-line-utilities"]
 publish = false
 
 [dependencies]
+rand = "0.8.5"
